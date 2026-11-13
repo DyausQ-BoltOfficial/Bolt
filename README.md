@@ -6,7 +6,7 @@
 
 ## 📥 Download & Install (v3.0)
 
-1. Download the latest release here: **[Download Bolt_v3_Release.zip][(https://github.com] (https://github.com/DyausQ-BoltOfficial/BoltV3/releases/tag/v3.00))**
+1. Download the latest release here: **[Download Bolt_v3_Release.zip][(https://github.com](https://github.com/DyausQ-BoltOfficial/BoltV3/releases/tag/v3.00))**
 2. Extract the ZIP archive.
 3. Run the one-click installer for your operating system (it sets everything up and automatically cleans up the installer files):
    * **Windows:** Open the `Windows` folder and double-click `Setup_Bolt.bat` *(installs standalone `bolt.exe` — no Python installation required)*.
