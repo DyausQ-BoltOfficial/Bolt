@@ -55,5 +55,4 @@ repeat 3:
 A complete **`Bolt_Manual.md`** is automatically placed on your Desktop when you install Bolt.
 
 
-## 📖 Documentation
-A complete **`Bolt_Manual.md`** is automatically placed on your Desktop when you install Bolt.
+
